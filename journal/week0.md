@@ -1,4 +1,13 @@
 # AWS Security and Optimization Tasks.
+# AWS Bootcamp Week 0
+
+## Required Homework 
+
+## Homework Challenges
+
+**pnote **
+
+### 
 
 In order to ensure the security and optimization of our AWS environment, I have performed the following tasks:
 
