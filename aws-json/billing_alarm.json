@@ -1,0 +1,23 @@
+{
+    "AlarmName": "MyBillingAlarm",
+    "ComparisonOperator": "GreaterThanOrEqualToThreshold",
+    "EvaluationPeriods": 2,
+    "MetricName": "EstimatedCharges",
+    "Namespace": "AWS/Billing",
+    "Period": 21600,
+    "Statistic": "Maximum",
+    "Threshold": 5.0,
+    "ActionsEnabled": true,
+    "AlarmActions": [
+        "arn:aws:sns:us-east-1:810909660778:MyTopic"
+    ],
+    "OKActions": [
+        "arn:aws:sns:us-east-1:810909660778:MyTopic"
+    ],
+    "Dimensions": [
+        {
+            "Name": "Currency",
+            "Value": "USD"
+        }
+    ]
+}

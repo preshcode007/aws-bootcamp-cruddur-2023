@@ -1,0 +1,26 @@
+{
+        "BudgetName": "Credit Usage Budget",
+        "BudgetLimit": {
+            "Amount": "5",
+            "Unit": "USD"
+        },
+
+        "CostFilters": {},
+        "CostTypes": {
+            "IncludeCredit": true,
+            "IncludeTax": true,
+            "IncludeSubscription": true,
+            "UseBlended": true
+        },
+
+        "TimeUnit": "MONTHLY",
+        "TimePeriod": {
+            "Start": "2023-04-01",
+            "End": "2023-12-31"
+        },
+
+        "BudgetType": "COST"
+    
+
+}
+        

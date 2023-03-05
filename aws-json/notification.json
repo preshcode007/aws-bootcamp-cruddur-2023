@@ -1,0 +1,19 @@
+[
+    {
+      "Notification": {
+        "NotificationType": "ACTUAL",
+        "ComparisonOperator": "EQUAL_TO",
+        "Threshold": 80,
+        "ThresholdType": "PERCENTAGE",
+        "NotificationState": "OK"
+      },
+      "Subscribers": [
+        {
+          "SubscriptionType": "EMAIL",
+          "Address": "okiemenprecious@gmail.com"
+        }
+        
+      ]
+    }
+    
+  ]
