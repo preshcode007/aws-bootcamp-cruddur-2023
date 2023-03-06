@@ -16,11 +16,10 @@
         "TimeUnit": "MONTHLY",
         "TimePeriod": {
             "Start": "2023-04-01",
-            "End": "2023-12-31"
+            "End": "2023-11-31"
         },
 
         "BudgetType": "COST"
     
-
 }
         
