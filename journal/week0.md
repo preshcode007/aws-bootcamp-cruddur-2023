@@ -56,4 +56,6 @@
 - __note: I am not using gitpod for now but vscode so I can save up on my gitpod free tier. __
 
 
+#### 2. Deleting all my setup from the IAM Accounts, AWS Organisation, Billing, CloudWatch, s3 buckets ...everything and try to automate my setup via Infrastructure as code.
+- I will be making use of a new tool __org-formation__ as one of the open source tools I will be using for the  automation process
 
